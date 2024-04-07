@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esad-KaranfiL&locale=tr" alt="esad-karanfil" /></p>
 
-![snake gif](https://github.com/Esad-KaranfiL/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Esad-KaranfiL/Esad-KaranfiL/blob/output/github-contribution-grid-snake.gif)
