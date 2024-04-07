@@ -11,4 +11,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esad-KaranfiL&locale=tr" alt="esad-karanfil" /></p>
 
-![snake gif](https://github.com/Esad-KaranfiL/Esad-KaranfiL/blob/output/github-contribution-grid-snake.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[snake gif](https://github.com/Esad-KaranfiL/Esad-KaranfiL/blob/output/github-contribution-grid-snake.gif)" />
+  <source media="(prefers-color-scheme: light)" srcset="[snake gif](https://github.com/Esad-KaranfiL/Esad-KaranfiL/blob/output/github-contribution-grid-snake.gif)" />
+  <img alt="github-snake" src="[snake gif](https://github.com/Esad-KaranfiL/Esad-KaranfiL/blob/output/github-contribution-grid-snake.gif)" />
+</picture>
